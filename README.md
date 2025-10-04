@@ -7,4 +7,6 @@
 - Simulation files available [here](https://github.com/arianouri/ISI-Wiretap-Channels/tree/main/%5BSIMULATION_FILES%5D%20Constrained%20Secrecy%20Capacity)
 
 ### Design and Analysis of a Concatenated Code for Intersymbol Interference Wiretap Channels
+- Preprint available at [arXiv:2501.07561 [cs.IT]](https://arxiv.org/abs/2501.07561).
+- Presented at [IEEE ISIT 2022](https://ieeexplore.ieee.org/abstract/document/9834578).
 - Simulation files and code available [here](https://github.com/arianouri/ISI_Wiretap_Channels.Code_Design)
