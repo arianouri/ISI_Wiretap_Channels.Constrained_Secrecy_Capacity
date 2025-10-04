@@ -1,6 +1,6 @@
 # ISI_Wiretap_Channels.Constrained_Secrecy_Capacity &nbsp; [![DOI](https://zenodo.org/badge/419676331.svg)](https://zenodo.org/badge/latestdoi/419676331)
 
-#### Constrained Secrecy Capacity of Finite-Input Intersymbol Interference Wiretap Channels
+### Constrained Secrecy Capacity of Finite-Input Intersymbol Interference Wiretap Channels
 - Preprint available at [arXiv:2102.04941 [cs.IT]](https://arxiv.org/abs/2102.04941)  
   *(Published in [IEEE TCOM 2023](https://ieeexplore.ieee.org/document/10068266))*  
 - Presented at [IEEE ITW 2021](https://ieeexplore.ieee.org/abstract/document/9611416)  
